@@ -26,16 +26,19 @@ This is a responsive e-commerce web application built with React and TypeScript.
 
 ## 📦 How to run locally:
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Roma-Ivashchenko/gadget-store-react.git]
-   ```
-2. Navigate to the project folder:
-   cd gadget-store-react
-
-3. Install dependencies:
-   npm install
-
-4. Start the development server:
-
-   npm start
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/Roma-Ivashchenko/gadget-store-react.git](https://github.com/Roma-Ivashchenko/gadget-store-react.git)
+    ```
+2.  **Navigate to the project folder:**
+    ```bash
+    cd gadget-store-react
+    ```
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+4.  **Start the development server:**
+    ```bash
+    npm start
+    ```
